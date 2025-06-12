@@ -1,0 +1,18 @@
+body {
+  background-color: #d9f9ff;
+  color: #000000;
+  margin: 0;
+  padding: 20px;
+}
+html {
+  font-family: 'Times New Roman';
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+}
+
+.profile-image {
+  width: 200px;
+  border-radius: 60%;
+  margin-bottom: 20px;
+}
